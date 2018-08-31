@@ -13,6 +13,7 @@ Match cards in less time with less moves.
 
 ## How I built the Memory Game ##
 I manipulated the DOM with JavaScript, altered part of the HTML and also styled the game.
+https://tulikarai.github.io/MemoryGameProject/ 
 
 * created a deck of cards that shuffles when game is started  or refreshed.
 * created a counter to count the number of moves made by player and timer to know the duration of a play and star rating (from 1 to at least 3) that reflects the player's performance.
