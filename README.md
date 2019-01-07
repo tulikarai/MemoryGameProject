@@ -1,5 +1,5 @@
 # Memory Game #
-![Memory Game Image](/images/MemoryGame.png)
+[check the project Live](https://tulikarai.github.io/MemoryGameProject/)
 ## What is the Memory Game ##
 This game test user's memory. There's a deck of cards with different icons. Match the right pair of cards.
 
